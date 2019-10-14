@@ -4,8 +4,7 @@ Created on Sat Sep 28 19:54:40 2019
 
 @author: Yugar
 
-breast cancer data
-used for binary classifying problems
+using data from Zhihua Zhou's book Machine Learning
 """
 
 from collections import Counter
